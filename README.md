@@ -14,4 +14,4 @@ In this project, a regression model is developed to predict the proba
     * Chance of Admit ( ranging from 0 to 1 )
 
 - Create Flask API.
-![image](https://user-images.githubusercontent.com/84888378/159974532-b297fe71-a7d1-4e34-9e22-66b89ba304af.png)
+
